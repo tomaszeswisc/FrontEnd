@@ -2,3 +2,4 @@ taela de cores css -> https://www.ranoya.com/books/public/css/corescss.php
 
 fontes, icones e etc -> https://fonts.google.com/
 
+CSS ->https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-wrap
